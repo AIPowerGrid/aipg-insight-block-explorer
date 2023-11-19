@@ -847,7 +847,7 @@ msgstr "Warte auf Transaktionen..."
 #~ "Applikationen zu implementieren. Hierbei werden fortschrittlichere "
 #~ "Abfragen der Blockchain ermöglicht, bei denen die RPC des aipgcoind "
 #~ "nicht mehr ausreichen. Der aktuelle <a href=\"https://github.com/"
-#~ "underdarkskies/insight-ui\" target=\"_blank\">Quellcode</a> ist auf "
+#~ "AIPowerGrid/aipg-insight-block-explorer\" target=\"_blank\">Quellcode</a> ist auf "
 #~ "Github zu finden."
 
 #~ msgid ""

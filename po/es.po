@@ -854,7 +854,7 @@ msgstr "Esperando transacciones..."
 #~ msgstr ""
 #~ "<strong>insight</strong> esta en desarrollo aún, por ello agradecemos que "
 #~ "nos reporten errores o sugerencias para mejorar el software. <a href="
-#~ "\"https://github.com/underdarkskies/insight-ui/issues\" target=\"_blank"
+#~ "\"https://github.com/AIPowerGrid/aipg-insight-block-explorer/issues\" target=\"_blank"
 #~ "\">Github issue tracker</a>."
 
 #~ msgid "About"

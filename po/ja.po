@@ -839,7 +839,7 @@ msgstr "トランザクションを待っています..."
 #~ "チェインへの問い合わせを必要とするウェブウォレットやその他のアプリを書くの"
 #~ "に使える、完全なRESTおよびwebsocket APIを備えた<a href=\"http://live."
 #~ "insight.is/\" target=\"_blank\">オープンソースのビットコインブロックエクス"
-#~ "プローラ</a>です。<a href=\"https://github.com/underdarkskies/insight-ui"
+#~ "プローラ</a>です。<a href=\"https://github.com/AIPowerGrid/aipg-insight-block-explorer"
 #~ "\" target=\"_blank\">ソースコード</a>を確認"
 
 #~ msgid ""

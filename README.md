@@ -74,7 +74,7 @@ For more details about the [Insight API](https://github.com/underdarkskies/insig
 
 ## Contribute
 
-Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/underdarkskies/insight-ui).
+Contributions and suggestions are welcomed at the [Insight UI GitHub repository](https://github.com/AIPowerGrid/aipg-insight-block-explorer).
 
 
 ## License
