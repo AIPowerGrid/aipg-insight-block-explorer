@@ -1,22 +1,22 @@
 # Insight UI
 
-A Ravencoin blockchain explorer web application service for [Ravencore Node](https://github.com/underdarkskies/ravencore-node) using the [Insight API](https://github.com/underdarkskies/insight-api).
+A aipgcoin blockchain explorer web application service for [aipgcore Node](https://github.com/underdarkskies/aipgcore-node) using the [Insight API](https://github.com/underdarkskies/insight-api).
 
 ## Quick Start
 
-Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [Ravencore](https://github.com/underdarkskies/ravencore).
+Please see the guide at [https://bitcore.io/guides/full-node](https://bitcore.io/guides/full-node) for information about getting a block explorer running. This is only the front-end component of the block explorer, and is packaged together with all of the necessary components in [aipgcore](https://github.com/underdarkskies/aipgcore).
 
 ## Getting Started
 
 To manually install all of the necessary components, you can run these commands:
 
 ```bash
-npm install -g ravencore-node
-ravencore-node create mynode
+npm install -g aipgcore-node
+aipgcore-node create mynode
 cd mynode
-ravencore-node install insight-api
-ravencore-node install insight-ui
-ravencore-node start
+aipgcore-node install insight-api
+aipgcore-node install insight-ui
+aipgcore-node start
 ```
 
 Open a web browser to `http://localhost:3001/insight/`
