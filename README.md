@@ -1,6 +1,6 @@
 # Insight UI
 
-A aipgcoin blockchain explorer web application service for [aipgcore Node](https://github.com/underdarkskies/aipgcore-node) using the [Insight API](https://github.com/underdarkskies/insight-api).
+A aipgcoin blockchain explorer web application service for [aipgcore Node](https://github.com/AIPowerGrid/aipgcore-node) using the [Insight API](https://github.com/underdarkskies/insight-api).
 
 ## Quick Start
 
